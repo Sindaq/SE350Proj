@@ -3,6 +3,7 @@ import prices.PriceFactory;
 
 public class Main {
     public static void main(String[] args) {
+        //test commit
 
         Price p1, p2, p3, p4, p5;
 
